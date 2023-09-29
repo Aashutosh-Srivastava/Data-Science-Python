@@ -1,4 +1,4 @@
-# DAta structures in python
+# Data structures in python
 
 ## List    
 - list is a collection of items, which can be accessed by index.
@@ -25,4 +25,5 @@
 - ordered
 - can contain duplicates values 
 - contains uniques keys
+
 
